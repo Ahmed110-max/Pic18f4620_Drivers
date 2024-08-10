@@ -1,0 +1,21 @@
+build/default/production/MCAL_layer/ADC/ADC.p1:  \
+MCAL_layer/ADC/ADC.c  \
+MCAL_layer/ADC/ADC.h  \
+MCAL_layer/ADC/../GPIO/hal_gpio.h  \
+MCAL_layer/ADC/../GPIO/../mcal_std_types.h  \
+MCAL_layer/ADC/../GPIO/../std_libraries.h  \
+MCAL_layer/ADC/../GPIO/../compiler.h  \
+MCAL_layer/ADC/../GPIO/../device_configration.h  \
+MCAL_layer/ADC/../../MCAL_layer/interrupt/mcal_internal_interrupt.h  \
+MCAL_layer/ADC/../../MCAL_layer/interrupt/mcal_interrupt_configration.h  \
+MCAL_layer/ADC/../../MCAL_layer/interrupt/../ADC/ADC.h  \
+MCAL_layer/ADC/../../MCAL_layer/interrupt/../TIMER0/TIMER0.h  \
+MCAL_layer/ADC/../../MCAL_layer/interrupt/../TIMER0/../interrupt/mcal_internal_interrupt.h  \
+MCAL_layer/ADC/../../MCAL_layer/interrupt/../TIMER1/TIMER1.h  \
+MCAL_layer/ADC/../../MCAL_layer/interrupt/../TIMER1/../interrupt/mcal_internal_interrupt.h  \
+MCAL_layer/ADC/../../MCAL_layer/interrupt/../TIMER2/TIMER2.h  \
+MCAL_layer/ADC/../../MCAL_layer/interrupt/../TIMER2/../interrupt/mcal_internal_interrupt.h  \
+MCAL_layer/ADC/../../MCAL_layer/interrupt/../TIMER3/TIMER3.h  \
+MCAL_layer/ADC/../../MCAL_layer/interrupt/../TIMER3/../interrupt/mcal_internal_interrupt.h  \
+MCAL_layer/ADC/../../MCAL_layer/interrupt/../../CCP.h  \
+MCAL_layer/interrupt/mcal_internal_interrupt.h 

@@ -1,0 +1,22 @@
+build/default/production/MCAL_layer/EUSART/EUSART.p1:  \
+MCAL_layer/EUSART/EUSART.c  \
+MCAL_layer/EUSART/EUSART.h  \
+MCAL_layer/EUSART/../GPIO/hal_gpio.h  \
+MCAL_layer/EUSART/../GPIO/../mcal_std_types.h  \
+MCAL_layer/EUSART/../GPIO/../std_libraries.h  \
+MCAL_layer/EUSART/../GPIO/../compiler.h  \
+MCAL_layer/EUSART/../GPIO/../device_configration.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/mcal_internal_interrupt.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/mcal_interrupt_configration.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/../ADC/ADC.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/../ADC/../../MCAL_layer/interrupt/mcal_internal_interrupt.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/../TIMER0/TIMER0.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/../TIMER0/../interrupt/mcal_internal_interrupt.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/../TIMER1/TIMER1.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/../TIMER1/../interrupt/mcal_internal_interrupt.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/../TIMER2/TIMER2.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/../TIMER2/../interrupt/mcal_internal_interrupt.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/../TIMER3/TIMER3.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/../TIMER3/../interrupt/mcal_internal_interrupt.h  \
+MCAL_layer/EUSART/../../MCAL_layer/interrupt/../../CCP.h  \
+MCAL_layer/interrupt/mcal_internal_interrupt.h 
